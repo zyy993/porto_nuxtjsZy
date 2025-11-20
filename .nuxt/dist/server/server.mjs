@@ -1,1 +1,1 @@
-export { default } from "file:///D:/XAMPP/htdocs/Portofolio/nuxt-individu-main/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///C:/Users/after/Downloads/porto/porto_nuxtjsZy/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
