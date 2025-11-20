@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "preinstall": "chmod +x node_modules/.bin/nuxi || true",
     "dev": "nuxi dev",
     "build": "nuxi build",
     "start": "nuxi preview",
@@ -16,11 +17,4 @@
     "nuxt": "^3.12.2",
     "vite": "^5.3.3"
   }
-  "scripts": {
-  "preinstall": "chmod +x node_modules/.bin/nuxi || true",
-  "dev": "nuxi dev",
-  "build": "nuxi build",
-  "start": "nuxi preview",
-  "generate": "nuxi generate"
-}
 }
